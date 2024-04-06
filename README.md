@@ -1,2 +1,1 @@
-# Repository for Fame website.
-https://rishabhg19.github.io/fame/.
+# Repository Homework 5 COMSW3102 Full Stack Development
